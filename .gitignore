@@ -1,0 +1,5 @@
+env/
+_paycache/
+*.pyc
+log/
+database/*.sqlite3

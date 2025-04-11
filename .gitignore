@@ -3,4 +3,3 @@ _paycache/
 *.pyc
 log/
 database/
-logger.py

@@ -2,4 +2,5 @@ env/
 _paycache/
 *.pyc
 log/
-database/*.sqlite3
+database/
+logger.py
